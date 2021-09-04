@@ -30,12 +30,12 @@ namespace TP02.Controllers
         {
             return View();
         }
-        public string empleado(string nYa, int dni, DateTime fechaNac, string direccion, DateTime fechaIngr, string cargo)
+        public string empleado(string nYa, int dni, DateTime fechaNac, string direccion, DateTime fechaIngr)
         {
             try
             {
                 Empleados miEmpleados = new Empleados();
-                miEmpleados.crearEmpleado(nYa, fechaNac, dni, direccion, fechaIngr, cargo);
+                miEmpleados.crearEmpleado(nYa, fechaNac, dni, direccion, fechaIngr);
                 return "Apellido y Nombre: " + miEmpleados.ApellidoYnombre + "Edad: " + miEmpleados.Edad + "Antiguedad: " + miEmpleados.Antiguedad + "Salario: " + miEmpleados.Salario;
             }
             catch (Exception Error)

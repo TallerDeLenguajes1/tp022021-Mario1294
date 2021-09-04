@@ -8,13 +8,34 @@
 </div>
 
 <form asp-action="empleado" asp-controller="Home" method="post">
-    <label>Ingrese los siguientes datos:   </label> <br />
-    
-    Apellido y Nombre: <input type="text" name="nYa" value="" /><br /><br />
-    D.N.I: <input type="number" name="dni" value=""  /><br /><br />
-    Fecha de Nacimiento: <input type="date" name="fechaNac" value="" /><br /><br />
-    Direccion: <input type="text" name="name" value="" /><br /><br />
-    Fecha de Ingreso a la empresa: <input type="date" name="fechaIngr" value="" /><br /><br />
-    Cargo que ocupa: <input type="text" name="cargo" value="" /><br /><br />
-    <input type="submit" class="btn btn-primary" />
+     
+    <fieldset>
+        <legend>Datos del empleado</legend>
+        <div class="col-md-6">
+            <label for="nya" class="form-label">Apellido y Nombre:</label>
+            <input type="text" class="form-control" name="nYa" value="" id="nya" />
+         </div>
+        <div class="col-md-6">
+            <label for="dni" class="form-label">D.N.I: </label>
+            <input type="number" class="form-control" name="dni" value="" id="dni" />
+        </div>
+        <div class="col-md-6">
+            <label for="direccion" class="form-label">Direccion: </label>
+            <input type="text" class="form-control" id="direccion" name="name" value="" />
+        </div>
+        
+        <div class="col-md-6">
+            <br /><label for="fechaN" class="form-label">Fecha de Nacimiento: </label>
+            <input type="date" class="form-control" name="fechaNac" value="" id="fechaN" />
+        </div> 
+        <div class="col-md-6">
+             <br /><label for="fechaI" class="form-label">Fecha de Ingreso a la empresa: </label>
+             <input type="date" id="fechaI" class="form-control" name="fechaIngr" value="" />
+        </div>
+
+        <div class="col-md-12">
+            <br /> <input type="submit" class="btn-primary" />
+        </div>
+            
+</fieldset>
 </form>

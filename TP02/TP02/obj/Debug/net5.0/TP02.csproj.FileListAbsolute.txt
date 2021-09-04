@@ -42,3 +42,47 @@ C:\Users\Mario\Desktop\Taller de Lenguaje II\Manejo de Log\tp022021-Mario1294\TP
 C:\Users\Mario\Desktop\Taller de Lenguaje II\Manejo de Log\tp022021-Mario1294\TP02\TP02\bin\Debug\net5.0\NLog.dll
 C:\Users\Mario\Desktop\Taller de Lenguaje II\Manejo de Log\tp022021-Mario1294\TP02\TP02\bin\Debug\net5.0\NLog.Extensions.Logging.dll
 C:\Users\Mario\Desktop\Taller de Lenguaje II\Manejo de Log\tp022021-Mario1294\TP02\TP02\bin\Debug\net5.0\NLog.Web.AspNetCore.dll
+C:\Taller\Repogit\tp022021-Mario1294\TP02\TP02\bin\Debug\net5.0\nlog.config
+C:\Taller\Repogit\tp022021-Mario1294\TP02\TP02\bin\Debug\net5.0\appsettings.Development.json
+C:\Taller\Repogit\tp022021-Mario1294\TP02\TP02\bin\Debug\net5.0\appsettings.json
+C:\Taller\Repogit\tp022021-Mario1294\TP02\TP02\bin\Debug\net5.0\TP02.exe
+C:\Taller\Repogit\tp022021-Mario1294\TP02\TP02\bin\Debug\net5.0\TP02.deps.json
+C:\Taller\Repogit\tp022021-Mario1294\TP02\TP02\bin\Debug\net5.0\TP02.runtimeconfig.json
+C:\Taller\Repogit\tp022021-Mario1294\TP02\TP02\bin\Debug\net5.0\TP02.runtimeconfig.dev.json
+C:\Taller\Repogit\tp022021-Mario1294\TP02\TP02\bin\Debug\net5.0\TP02.dll
+C:\Taller\Repogit\tp022021-Mario1294\TP02\TP02\bin\Debug\net5.0\ref\TP02.dll
+C:\Taller\Repogit\tp022021-Mario1294\TP02\TP02\bin\Debug\net5.0\TP02.pdb
+C:\Taller\Repogit\tp022021-Mario1294\TP02\TP02\bin\Debug\net5.0\TP02.Views.dll
+C:\Taller\Repogit\tp022021-Mario1294\TP02\TP02\bin\Debug\net5.0\TP02.Views.pdb
+C:\Taller\Repogit\tp022021-Mario1294\TP02\TP02\bin\Debug\net5.0\NLog.dll
+C:\Taller\Repogit\tp022021-Mario1294\TP02\TP02\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+C:\Taller\Repogit\tp022021-Mario1294\TP02\TP02\bin\Debug\net5.0\NLog.Web.AspNetCore.dll
+C:\Taller\Repogit\tp022021-Mario1294\TP02\TP02\obj\Debug\net5.0\TP02.csproj.AssemblyReference.cache
+C:\Taller\Repogit\tp022021-Mario1294\TP02\TP02\obj\Debug\net5.0\TP02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Taller\Repogit\tp022021-Mario1294\TP02\TP02\obj\Debug\net5.0\TP02.AssemblyInfoInputs.cache
+C:\Taller\Repogit\tp022021-Mario1294\TP02\TP02\obj\Debug\net5.0\TP02.AssemblyInfo.cs
+C:\Taller\Repogit\tp022021-Mario1294\TP02\TP02\obj\Debug\net5.0\TP02.csproj.CoreCompileInputs.cache
+C:\Taller\Repogit\tp022021-Mario1294\TP02\TP02\obj\Debug\net5.0\TP02.MvcApplicationPartsAssemblyInfo.cache
+C:\Taller\Repogit\tp022021-Mario1294\TP02\TP02\obj\Debug\net5.0\TP02.RazorAssemblyInfo.cache
+C:\Taller\Repogit\tp022021-Mario1294\TP02\TP02\obj\Debug\net5.0\TP02.RazorAssemblyInfo.cs
+C:\Taller\Repogit\tp022021-Mario1294\TP02\TP02\obj\Debug\net5.0\staticwebassets\TP02.StaticWebAssets.Manifest.cache
+C:\Taller\Repogit\tp022021-Mario1294\TP02\TP02\obj\Debug\net5.0\staticwebassets\TP02.StaticWebAssets.xml
+C:\Taller\Repogit\tp022021-Mario1294\TP02\TP02\obj\Debug\net5.0\scopedcss\bundle\TP02.styles.css
+C:\Taller\Repogit\tp022021-Mario1294\TP02\TP02\obj\Debug\net5.0\TP02.TagHelpers.input.cache
+C:\Taller\Repogit\tp022021-Mario1294\TP02\TP02\obj\Debug\net5.0\TP02.TagHelpers.output.cache
+C:\Taller\Repogit\tp022021-Mario1294\TP02\TP02\obj\Debug\net5.0\TP02.RazorCoreGenerate.cache
+C:\Taller\Repogit\tp022021-Mario1294\TP02\TP02\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Taller\Repogit\tp022021-Mario1294\TP02\TP02\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Taller\Repogit\tp022021-Mario1294\TP02\TP02\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Taller\Repogit\tp022021-Mario1294\TP02\TP02\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Taller\Repogit\tp022021-Mario1294\TP02\TP02\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Taller\Repogit\tp022021-Mario1294\TP02\TP02\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Taller\Repogit\tp022021-Mario1294\TP02\TP02\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Taller\Repogit\tp022021-Mario1294\TP02\TP02\obj\Debug\net5.0\TP02.RazorTargetAssemblyInfo.cache
+C:\Taller\Repogit\tp022021-Mario1294\TP02\TP02\obj\Debug\net5.0\TP02.RazorTargetAssemblyInfo.cs
+C:\Taller\Repogit\tp022021-Mario1294\TP02\TP02\obj\Debug\net5.0\TP02.Views.pdb
+C:\Taller\Repogit\tp022021-Mario1294\TP02\TP02\obj\Debug\net5.0\TP02.csproj.CopyComplete
+C:\Taller\Repogit\tp022021-Mario1294\TP02\TP02\obj\Debug\net5.0\TP02.dll
+C:\Taller\Repogit\tp022021-Mario1294\TP02\TP02\obj\Debug\net5.0\ref\TP02.dll
+C:\Taller\Repogit\tp022021-Mario1294\TP02\TP02\obj\Debug\net5.0\TP02.pdb
+C:\Taller\Repogit\tp022021-Mario1294\TP02\TP02\obj\Debug\net5.0\TP02.genruntimeconfig.cache
