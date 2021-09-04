@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Trabajo Practico N°2</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<form asp-action="empleado" asp-controller="Home" method="post">
+    <label>Ingrese los siguientes datos:   </label> <br />
+    
+    Apellido y Nombre: <input type="text" name="nYa" value="" /><br /><br />
+    D.N.I: <input type="number" name="dni" value=""  /><br /><br />
+    Fecha de Nacimiento: <input type="date" name="fechaNac" value="" /><br /><br />
+    Direccion: <input type="text" name="name" value="" /><br /><br />
+    Fecha de Ingreso a la empresa: <input type="date" name="fechaIngr" value="" /><br /><br />
+    Cargo que ocupa: <input type="text" name="cargo" value="" /><br /><br />
+    <input type="submit" class="btn btn-primary" />
+</form>
