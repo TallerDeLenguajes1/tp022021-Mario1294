@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k9YNcrDAGDh6lR2K8wVJW2xUSIGAFm22Up58DvQ0rbYQlCjWaCBXlimalSJ+d2BdB60236JT77nskzbZSrfL8g==",
+  "dgSpecHash": "ykM6/y3Um6dxJvq0HB8Rkby/Dw7dxERQVh7yPu6hcSMKNTuaDF52t9h1PiEUh+mm+wcHKZh0GHTweGpyQYnXmA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mario\\Desktop\\Taller de Lenguaje II\\Manejo de Log\\tp022021-Mario1294\\TP02\\TP02\\TP02.csproj",
+  "projectFilePath": "C:\\Taller\\Repogit\\tp022021-Mario1294\\TP02\\TP02\\TP02.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mario\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\Mario\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
